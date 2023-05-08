@@ -1,0 +1,5 @@
+total 1
+-rw-r--r-- 1 rockp 197609  0 May  8 23:18 file1.txt
+-rw-r--r-- 1 rockp 197609  0 May  8 23:25 file2.txt
+-rw-r--r-- 1 rockp 197609 40 May  8 23:22 sim001.txt
+Mon May  8 23:26:51 IST 2023
